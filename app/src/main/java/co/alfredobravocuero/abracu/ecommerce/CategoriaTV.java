@@ -18,10 +18,10 @@ public class CategoriaTV extends Fragment {
     private GridviewAdapter gridviewAdapter;
     private View view;
 
-    private int[] IMAGEgrid = {R.drawable.w1, R.drawable.w2, R.drawable.w3, R.drawable.w4, R.drawable.w5, R.drawable.w1,};
-    private String[] TITLeGgrid = {"Daniel", "Min 50% off", "Min 45% off",  "Min 60% off", "Min 70% off", "Min 50% off"};
-    private String[] DIscriptiongrid = {"Alfredo", "Brand Shoes", "Brand Shoes","Brand Shoes", "Brand Shoes", "Brand Shoes"};
-    private String[] Dategrid = {"Explore Now!","Grab Now!","Discover now!", "Great Savings!", "Explore Now!","Grab Now!"};
+    private int[] IMAGEgrid = {R.drawable.tv1, R.drawable.tv2, R.drawable.tv3, R.drawable.tv4, R.drawable.tv5, R.drawable.tv6,};
+    private String[] TITLeGgrid = {"TV LED 24 Pulgadas", "Televisor LG 49", "TV LED 32 Pulgadas HD",  "TV LED 82 Pulgadas", "TV LED 43 Pulgadas", "TV 32 Pulgadas"};
+    private String[] DIscriptiongrid = {"HD con TDT", "Smart Tv 4K", "Con TDT, wi-fi, HMI","Ultra H", "HD con TDY", "Ultra Hd Smart tv"};
+    private String[] Dategrid = {"$350.000", "$2.299.999", "$459.999", "$5.999.999","$8999.999","$999.999"};
 
 
 

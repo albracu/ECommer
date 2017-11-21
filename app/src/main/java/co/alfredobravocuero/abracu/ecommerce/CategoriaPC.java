@@ -18,10 +18,10 @@ public class CategoriaPC extends Fragment {
     private GridviewAdapter gridviewAdapter;
     private View view;
 
-    private int[] IMAGEgrid = {R.drawable.sed, R.drawable.pik2, R.drawable.pik3, R.drawable.pik4, R.drawable.pik1, R.drawable.pik2,};
-    private String[] TITLeGgrid = {"Min 70% off", "Min 50% off", "Min 45% off",  "Min 60% off", "Min 70% off", "Min 50% off"};
-    private String[] DIscriptiongrid = {"T-shirt", "Belts", "Sunglasses","Wallet ", "T-shirt", "Belts"};
-    private String[] Dategrid = {"Explore Now!","Grab Now!","Discover now!", "Great Savings!", "Explore Now!","Grab Now!"};
+    private int[] IMAGEgrid = {R.drawable.pc1, R.drawable.pc2, R.drawable.pc3, R.drawable.pc4, R.drawable.pc5, R.drawable.pc6,};
+    private String[] TITLeGgrid = {"Portatil Asus X441UA", "Portatil Asus X441UV-FA189", "Portatil Dell 5567",  "Portátil Dell", "MPortátil 2 en 1 Dell Inspiron", "Portátil 2 en 1 Lenovo"};
+    private String[] DIscriptiongrid = {"Intel Core i3 14 pulgadas", "Intel Core i7", " Intel Core i7 15.6 Pulgadas Gris"," Intel Core i5 15.6 Pulgadas 3567", "Core i5 15.6 Pulgadas", "Core i5 14 Pulgadas"};
+    private String[] Dategrid = {"$949.847","$2.155.00","$2.706.000", "$1.700.000", "$2.650.000","1.650.000"};
 
 
 

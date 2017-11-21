@@ -18,10 +18,10 @@ public class CategoriaMT extends Fragment {
     private GridviewAdapter gridviewAdapter;
     private View view;
 
-    private int[] IMAGEgrid = {R.drawable.pik1, R.drawable.pik2, R.drawable.pik3, R.drawable.pik4, R.drawable.pik1, R.drawable.pik2,};
-    private String[] TITLeGgrid = {"Min 70% off", "Min 50% off", "Min 45% off",  "Min 60% off", "Min 70% off", "Min 50% off"};
-    private String[] DIscriptiongrid = {"Brand Shoes", "Belts", "Sunglasses","Perfumes", "Brand Shoes", "Belts"};
-    private String[] Dategrid = {"Explore Now!","Grab Now!","Discover now!", "Great Savings!", "Explore Now!","Grab Now!"};
+    private int[] IMAGEgrid = {R.drawable.mt1, R.drawable.mt2, R.drawable.mt3, R.drawable.mt4, R.drawable.mt5, R.drawable.mt6,};
+    private String[] TITLeGgrid = {"Bws x 2018", "CRYPTON FI", "FZ 2.0",  "XT 660R", "Viking VI ", "YZ 450F"};
+    private String[] DIscriptiongrid = {"Cilindraje: 125 cc", "Semiautomatica 115 cc", "5 velocidades, 200 cc","600 cc", "Modelo 2017", "Cilindraje 449cm3"};
+    private String[] Dategrid = {"$7.448.200 ","$4.990.000","$6.590.000", "$26.700.000", " $69.000.000","$27.990.000"};
 
 
 
